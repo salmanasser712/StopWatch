@@ -1,0 +1,11 @@
+../Src/app.c:22:6:stop_watch	17
+../Src/app.c:76:6:C_pressed	1
+../Src/app.c:82:6:S_pressed	1
+../Src/app.c:88:6:E_pressed	2
+../Src/app.c:98:6:left_pressed	3
+../Src/app.c:108:6:right_pressed	3
+../Src/app.c:119:6:Init_leds	1
+../Src/app.c:126:6:led_val	1
+../Src/app.c:133:6:leds	9
+../Src/app.c:150:6:num_pressed	5
+../Src/app.c:161:6:inc_watch	8

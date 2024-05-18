@@ -1,0 +1,2 @@
+../Src/main.c:41:5:main	16	static
+../Src/main.c:74:6:toggle_led	16	static

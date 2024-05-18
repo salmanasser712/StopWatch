@@ -1,0 +1,3 @@
+../Src/7_segmant.c:7:6:Init_Segmant	8	static
+../Src/7_segmant.c:28:6:Segmant_Display	16	static
+../Src/7_segmant.c:104:6:select	16	static

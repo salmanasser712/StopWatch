@@ -1,0 +1,2 @@
+../Src/keypad.c:30:6:Keypad_init	8	static
+../Src/keypad.c:54:4:Keypad_get_pressed_key	24	static
